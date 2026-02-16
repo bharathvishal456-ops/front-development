@@ -8,4 +8,5 @@ https://bharathvishal456-ops.github.io/front-development/registration.html
 
 https://bharathvishal456-ops.github.io/front-development/notice.html
 
+https://bharathvishal456-ops.github.io/front-development/photo.html
 <img width="1344" height="616" alt="Screenshot 2026-02-16 095328" src="https://github.com/user-attachments/assets/dc064f51-c929-49d2-b41b-40ed1168494f" />
