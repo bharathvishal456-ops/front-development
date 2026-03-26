@@ -12,3 +12,6 @@ https://bharathvishal456-ops.github.io/front-development/photo.html
 
 https://bharathvishal456-ops.github.io/front-development/logine%20page.html
 <img width="1344" height="616" alt="Screenshot 2026-02-16 095328" src="https://github.com/user-attachments/assets/dc064f51-c929-49d2-b41b-40ed1168494f" />
+
+https://bharathvishal456-ops.github.io/front-development/hover.html
+<img width="1285" height="890" alt="Screenshot 2026-03-26 150529" src="https://github.com/user-attachments/assets/6d04db3a-d489-49ba-a414-0631055bc406" />
